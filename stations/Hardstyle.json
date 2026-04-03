@@ -1,0 +1,95 @@
+{
+  "folders": [
+    {
+      "name": "Hardstyle",
+      "stations": [
+        [
+          "https://stream.laut.fm/hardstylefm",
+          "Hardstyle FM"
+        ],
+        [
+          "http://harder-high.rautemusik.fm/",
+          "RauteMusik HARDER"
+        ],
+        [
+          "https://stream.laut.fm/hardstyle",
+          "Hardstyle"
+        ],
+        [
+          "https://stream.realhardstyle.nl/",
+          "Real Hardstyle"
+        ],
+        [
+          "https://sunsl.streamabc.net/sunsl-sunslhardstyle-mp3-192-5865645",
+          "Sunshine Live - Hard"
+        ],
+        [
+          "https://stream.slam.nl/web11_mp3",
+          "SLAM! Hardstyle"
+        ],
+        [
+          "https://stream.laut.fm/jtown-hardstyle",
+          "J Town Hardstyle"
+        ],
+        [
+          "https://stream.laut.fm/hardstyle-music",
+          "Hardstyle Music"
+        ],
+        [
+          "https://jumpstyle-sound-radio.stream.laut.fm/jumpstyle-sound-radio",
+          "Jumpstyle Sound Radio"
+        ],
+        [
+          "https://hardstylelegion.stream.laut.fm/hardstylelegion",
+          "Hardstylelegion"
+        ],
+        [
+          "https://stream.laut.fm/hardstyle-and-hardcore",
+          "Hardstyle And Hardcore"
+        ],
+        [
+          "https://stream.sunshine-live.de/hardstyle/mp3-192/",
+          "SUNSHINE LIVE - Hardstyle"
+        ],
+        [
+          "https://stream.technolovers.fm/hardstyle",
+          "Technolovers HARDSTYLE"
+        ],
+        [
+          "https://stream.laut.fm/gm-hands-up-hardstyle",
+          "Gm Hands Up Hardstyle"
+        ],
+        [
+          "https://kathy.torontocast.com:2905/stream",
+          "A.D.M. Hardstyle Radio"
+        ],
+        [
+          "http://icecast.pulsradio.com/pulshardHD.mp3",
+          "PulsRadio HardStyle"
+        ],
+        [
+          "https://stream.laut.fm/alb-donau-hardstyle",
+          "Alb Donau Hardstyle"
+        ],
+        [
+          "https://stream.laut.fm/hardstyle-remixes",
+          "Hardstyle Remixes"
+        ],
+        [
+          "https://hardstyle-fm-2000.stream.laut.fm/hardstyle-fm-2000",
+          "hardstyle fm 2000"
+        ],
+        [
+          "https://streams.ilovemusic.de/iloveradio21.mp3",
+          "I Love Hardstyle"
+        ],
+        [
+          "https://kathy.torontocast.com:2900/stream",
+          "A.D.M. Hardstyle_Radio"
+        ]
+      ],
+      "is_favorite": false,
+      "is_default": false
+    }
+  ]
+}
