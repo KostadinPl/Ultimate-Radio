@@ -1,0 +1,91 @@
+{
+  "folders": [
+    {
+      "name": "Disco",
+      "stations": [
+        [
+          "https://s3.slotex.pl:7170/;",
+          "Disco Party - Lata 90s"
+        ],
+        [
+          "https://stream.zeno.fm/rpueoo0qnu0tv",
+          "Disco Exitos Clasicos 70s 80s 90s"
+        ],
+        [
+          "https://live.radioton.de/radioton-80er_disco/mp3-192/",
+          "Radio Ton - 80er Disco"
+        ],
+        [
+          "https://strm112.1.fm/disco_128",
+          "FM - Disco Ball 70s-80 s"
+        ],
+        [
+          "https://broadcast.miami/proxy/eurodisco?mp=/;",
+          "Radio Euro Disco"
+        ],
+        [
+          "https://broadcast.miami/proxy/prelude?mp=/;",
+          "Radio Prelude"
+        ],
+        [
+          "https://stream.zeno.fm/8yytdggiugttv",
+          "Exoplanet Radio"
+        ],
+        [
+          "https://disco-radio-das-original.stream.laut.fm/disco-radio-das-original",
+          "Disco Radio Das Original"
+        ],
+        [
+          "http://toxicfm.ice.infomaniak.ch/toxicfm-128.mp3",
+          "Toxic FM"
+        ],
+        [
+          "http://streams.80s80s.de/italohits/mp3-192/",
+          "80s80s Italo Disco"
+        ],
+        [
+          "https://radiodd.cloud/listen/radio_disco-mix/radio.mp3",
+          "radio disco mix"
+        ],
+        [
+          "https://s1.slotex.pl/shoutcast/7432/listen.xtl",
+          "discoparty.pl - disco polo"
+        ],
+        [
+          "https://gcarrstream2-danidi01.radioca.st/stream",
+          "radio musica disco fever"
+        ],
+        [
+          "https://phoebe.streamerr.co:5195/stream",
+          "rmi - ruro disco (poland)"
+        ],
+        [
+          "https://live.stream.radioarabella.de/radioarabella-disconight/stream/mp3",
+          "radio arabella disco night"
+        ],
+        [
+          "https://disco-polo-90.stream.laut.fm/disco-polo-90",
+          "Disco Polo 90"
+        ],
+        [
+          "http://streams.rsa-sachsen.de/80erdisco/mp3-192/",
+          "R.SA 80er Disco"
+        ],
+        [
+          "https://disco-dance-radio.stream.laut.fm/disco-dance-radio",
+          "Disco Dance Radio"
+        ],
+        [
+          "https://stream.zeno.fm/221xvkgmns8uv",
+          "Disco Night Good Times"
+        ],
+        [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR23.mp3",
+          "Radio 10 Disco Classics"
+        ]
+      ],
+      "is_favorite": false,
+      "is_default": false
+    }
+  ]
+}
