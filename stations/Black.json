@@ -1,0 +1,91 @@
+{
+  "folders": [
+    {
+      "name": "Black",
+      "stations": [
+        [
+          "http://stream.blackbeats.fm/",
+          "BlackBeats.FM"
+        ],
+        [
+          "https://frontend.streamonkey.net/rt1-ch13/stream/mp3",
+          "Hitradio rt 1 - Black"
+        ],
+        [
+          "https://topradio-de-hz-fal-stream08-cluster01.radiohost.de/rs2-black-music_mp3-192",
+          "rs 2 - Black Music"
+        ],
+        [
+          "https://crazy-black-radio.stream.laut.fm/crazy-black-radio",
+          "Crazy Black-Radio"
+        ],
+        [
+          "http://bass-high.rautemusik.fm/listen",
+          "RauteMusik BASS"
+        ],
+        [
+          "https://stream.laut.fm/hiphop24",
+          "Hiphop 24"
+        ],
+        [
+          "https://stream.laut.fm/hiphop126",
+          "Hiphop 126"
+        ],
+        [
+          "https://stream.laut.fm/hiphop2017",
+          "Hiphop 2017"
+        ],
+        [
+          "https://stream.laut.fm/1000hiphop",
+          "1000 Hiphop"
+        ],
+        [
+          "https://rock-hiphop.stream.laut.fm/rock-hiphop",
+          "Rock& HipHop"
+        ],
+        [
+          "https://hessen-hiphop.stream.laut.fm/hessen-hiphop",
+          "hessen-hiphop"
+        ],
+        [
+          "http://streams.90s90s.de/hiphop/mp3-192/",
+          "90s90s Hiphop"
+        ],
+        [
+          "https://stream.laut.fm/hiphop-forever",
+          "Hiphop Forever"
+        ],
+        [
+          "https://mira-fm-hiphop.stream.laut.fm/mira-fm-hiphop",
+          "Mira.FM HipHop"
+        ],
+        [
+          "http://icecast.omroep.nl/funx-hiphop-bb-mp3",
+          "NPO FunX Hiphop"
+        ],
+        [
+          "https://flysound-hiphop.stream.laut.fm/flysound-hiphop",
+          "flysound-hiphop"
+        ],
+        [
+          "https://stream.bigfm.de/exusraphiphop/mp3-128/",
+          "US Rap & HipHop"
+        ],
+        [
+          "https://stream.laut.fm/oldschool-hiphop",
+          "Oldschool HipHop"
+        ],
+        [
+          "https://stream.laut.fm/generation-hiphop",
+          "Generation Hiphop"
+        ],
+        [
+          "http://mp3stream4.abradio.cz/hiphopvibes128.mp3",
+          "HipHopVibes Radio"
+        ]
+      ],
+      "is_favorite": false,
+      "is_default": false
+    }
+  ]
+}
