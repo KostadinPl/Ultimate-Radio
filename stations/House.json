@@ -1,0 +1,95 @@
+{
+  "folders": [
+    {
+      "name": "House",
+      "stations": [
+        [
+          "https://stream.laut.fm/1st-house",
+          "1st House Radio"
+        ],
+        [
+          "https://streaming.live365.com/a19203",
+          "Best Beats EDM"
+        ],
+        [
+          "https://streaming.live365.com/a87036",
+          "Club DC"
+        ],
+        [
+          "https://house-high.rautemusik.fm/",
+          "RauteMusik HOUSE"
+        ],
+        [
+          "https://sonic.sistemahost.es:7011/;",
+          "Stylecore Radio"
+        ],
+        [
+          "https://dejavufm.radioca.st/;",
+          "Deja Vu FM"
+        ],
+        [
+          "https://icecast.top-ix.org/partygroove",
+          "Party Groove"
+        ],
+        [
+          "https://live.mikeriverra.com:9999/;",
+          "Club Mix Radio România"
+        ],
+        [
+          "https://streaming.live365.com/a06314",
+          "412Live"
+        ],
+        [
+          "http://live.dancemusic.ro:7000/",
+          "Deep House Music"
+        ],
+        [
+          "https://listener1.aachd.tb-group.fm/ht-hd.aac",
+          "House Time FM"
+        ],
+        [
+          "https://radio4.cdm-radio.com:18012/stream-mp3-Deep",
+          "Costa Del Mar - Deep-House"
+        ],
+        [
+          "https://stream.bigfm.de/exhouse/mp3-128/",
+          "House Beats"
+        ],
+        [
+          "https://uk4-vn.mixstream.net/8128/listen.mp3",
+          "House Music Radio"
+        ],
+        [
+          "https://clubhouse.stream.laut.fm/club_house",
+          "Club House"
+        ],
+        [
+          "https://mediaserv38.live-streams.nl:18048/stream",
+          "HousebeatsFM"
+        ],
+        [
+          "https://1st-house.stream.laut.fm/1st-house",
+          "1st House"
+        ],
+        [
+          "https://streams.90s90s.de/house/mp3-192/",
+          "90s90s House"
+        ],
+        [
+          "http://mp3.stream.tb-group.fm/ht.mp3",
+          "HouseTime FM"
+        ],
+        [
+          "https://housebomb-fn.stream.laut.fm/housebomb-fn",
+          "Housebomb Fn"
+        ],
+        [
+          "http://stream.tuxhost.net:8000",
+          "Deep House Network"
+        ]
+      ],
+      "is_favorite": false,
+      "is_default": false
+    }
+  ]
+}
