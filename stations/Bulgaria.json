@@ -1,0 +1,379 @@
+{
+  "folders": [
+    {
+      "name": "Bulgaria",
+      "stations": [
+        [
+          "https://g5.turbohost.eu/proxy/dwm/stream128",
+          "RADIO DANCE WITH ME 90s"
+        ],
+        [
+          "https://play.global.audio:8000/nrj128",
+          "radio energy"
+        ],
+        [
+          "https://play.global.audio/energy-00s.aac",
+          "Radio Energy - 00s"
+        ],
+        [
+          "http://play.global.audio/energy-90s",
+          "Energy 90s"
+        ],
+        [
+          "http://play.global.audio/city128",
+          "радио сити"
+        ],
+        [
+          "https://bss1.neterra.tv/thevoicefm/thevoicefm.m3u8",
+          "The Voice"
+        ],
+        [
+          "http://play.global.audio/nova128",
+          "Radio Nova"
+        ],
+        [
+          "https://play-radio0.jump.bg:7028/live",
+          "BadRock Radio"
+        ],
+        [
+          "https://cdn.bweb.bg/radio/z-rock.mp3",
+          "radio zrock"
+        ],
+        [
+          "http://79.98.108.170:8004/autodj",
+          "The A.X.E. Project"
+        ],
+        [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_1_ROCKAAC_H.aac",
+          "radio 1 rock"
+        ],
+        [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_1AAC_H.aac",
+          "radio 1"
+        ],
+        [
+          "http://play.global.audio/bgradio128",
+          "бг радио"
+        ],
+        [
+          "http://193.108.24.21:8000/fresh",
+          "Радио Fresh"
+        ],
+        [
+          "https://stream.radio.co/s53f1b7497/listen",
+          "bg voice hit mix"
+        ],
+        [
+          "http://79.98.108.170:8002/",
+          "Belisimo 90's"
+        ],
+        [
+          "http://play.global.audio/avtoradio.mp3",
+          "Avto Radio Bulgaria"
+        ],
+        [
+          "https://play.global.audio/testb.aac",
+          "BNR Horizont"
+        ],
+        [
+          "https://focusradio.dataserv.cc/1",
+          "Radio Focus"
+        ],
+        [
+          "https://pulsar.atlantis.bg:8443/classica",
+          "classic a"
+        ],
+        [
+          "http://cdn.bweb.bg/radio/classic-fm.mp3",
+          "Classic FM"
+        ],
+        [
+          "http://a1.virtualradio.eu:8000/powerfm.mp3",
+          "POWER FM"
+        ],
+        [
+          "http://stream.radioextra-bg.net:8000/viva-eurodance",
+          "Радио Viva Bg"
+        ],
+        [
+          "http://listen.hotget.net:8000/radio",
+          "Hot Dance"
+        ],
+        [
+          "http://www.ultranet.biz/vegablagoevgrad.m3u",
+          "Radio Vega +"
+        ],
+        [
+          "http://www.ultranet.biz/ultrapernik.m3u",
+          "Радио Ултра"
+        ],
+        [
+          "http://eilo.org:8000/house",
+          "Eilo - house"
+        ],
+        [
+          "http://eilo.org:8000/progressive",
+          "Eilo - progressive"
+        ],
+        [
+          "https://play.global.audio/bgestrada",
+          "BG Естрада"
+        ],
+        [
+          "http://tatkovina.eu:8000/",
+          "Татковина"
+        ],
+        [
+          "http://g5.turbohost.eu:8006/autodj",
+          "Тутурутка"
+        ],
+        [
+          "https://listen7.myradio24.com/venceremos",
+          "Венсеремос"
+        ],
+        [
+          "http://79.98.108.170:8243/",
+          "Радио Music BG"
+        ],
+        [
+          "http://79.98.108.170:8235",
+          "FAVORITT"
+        ],
+        [
+          "http://79.98.108.176:8016",
+          "Рила Фолк - Самоков"
+        ],
+        [
+          "http://79.98.108.170:8027/live",
+          "Rock& Blues Stream M35"
+        ],
+        [
+          "http://79.98.108.170:8024/live",
+          "Tomeko"
+        ],
+        [
+          "http://play.global.audio/novanews.mp3",
+          "Nova News"
+        ],
+        [
+          "http://play.global.audio/veronika64",
+          "Veronica"
+        ],
+        [
+          "http://79.98.108.170:8217/",
+          "Eternal Radio BG"
+        ],
+        [
+          "http://79.98.108.170:8181/live",
+          "Braille FM"
+        ],
+        [
+          "http://play.global.audio/radio1-koleda",
+          "Коледно Радио 1"
+        ],
+        [
+          "http://79.98.108.170:8175/",
+          "Gyudyuleva Stream"
+        ],
+        [
+          "http://79.98.108.170:8146/",
+          "Simeonov Balkan Mix"
+        ],
+        [
+          "http://79.98.108.170:8132/",
+          "Четвъртата стража"
+        ],
+        [
+          "http://79.98.108.170:8078/autodj",
+          "LUXOR WEB RADIO"
+        ],
+        [
+          "http://79.98.108.170:8062/autodj",
+          "Different"
+        ],
+        [
+          "http://79.98.108.170:8059/autodj",
+          "Radio Kanon"
+        ],
+        [
+          "http://79.98.108.170:8053",
+          "Радио Ретро чалга"
+        ],
+        [
+          "http://79.98.108.170:8042/autodj",
+          "Bar M35 Radio"
+        ],
+        [
+          "http://79.98.108.170:8036/autodj",
+          "Zone"
+        ],
+        [
+          "http://79.98.108.170:8030/autodj",
+          "Afro House"
+        ],
+        [
+          "http://79.98.108.170:8029/autodj",
+          "Relax M35"
+        ],
+        [
+          "http://79.98.108.170:8000/autodj",
+          "Deep Disco"
+        ],
+        [
+          "http://79.98.108.170:8010/autodj",
+          "Winbet (радио за веригата казина)"
+        ],
+        [
+          "http://79.98.108.170:8012/autodj",
+          "Media 35 (фонова музика за барове)"
+        ],
+        [
+          "http://79.98.108.170:8014/autodj",
+          "Beatport"
+        ],
+        [
+          "http://79.98.108.170:8015/autodj",
+          "Vocal Mix"
+        ],
+        [
+          "http://79.98.108.170:8019/autodj",
+          "Globe Radio"
+        ],
+        [
+          "http://79.98.108.170:8025/live",
+          "Детско Радио Усмивка гр. Бухово"
+        ],
+        [
+          "https://sunny-beachradio.stream.laut.fm/sunny-beachradio",
+          "Sunny Beach"
+        ],
+        [
+          "http://ssl22.radyotelekom.com/8136/stream",
+          "5. Радио Кесарево (с. Кесарево)"
+        ],
+        [
+          "http://79.98.108.170:8278/autodj",
+          "Bar Friends (Перник)"
+        ],
+        [
+          "http://g5.turbohost.eu:8004/stream96",
+          "Радио Жега 1 - ретро чалга (Свищов)"
+        ],
+        [
+          "http://play.global.audio/bgestrada",
+          "БГ радио Естрадa"
+        ],
+        [
+          "https://bss1.neterra.tv/veselina/veselina.m3u8",
+          "Радио Веселина"
+        ],
+        [
+          "https://bss1.neterra.tv/vitosha/vitosha.m3u8",
+          "Радио Витоша"
+        ],
+        [
+          "https://a1.vizitec.com:8001/powerfm.mp3",
+          "Power FM"
+        ],
+        [
+          "https://bss1.neterra.tv/magicfm/magicfm.m3u8",
+          "Magic FM"
+        ],
+        [
+          "https://play.global.audio:443/bgestrada",
+          "BG Radio - Estrada"
+        ],
+        [
+          "https://play.radiomaxxfm.com/deluxe-high",
+          "Deluxe Radio"
+        ],
+        [
+          "https://live.easyradio.bg/aac",
+          "Easy Radio"
+        ],
+        [
+          "https://play.radiomaxxfm.com/hitfm-high",
+          "Hit FM"
+        ],
+        [
+          "https://play.hitfmbg.com/maxx-high",
+          "Maxx FM Bulgaria"
+        ],
+        [
+          "https://stream.zeno.fm/sgpeqtzkmzauv",
+          "R1 Melodic Dubstep"
+        ],
+        [
+          "https://radio.jump.bg/proxy/georgi18/stream",
+          "Deep Lounge"
+        ],
+        [
+          "https://listen.radiofolkmix.com/folkmixios",
+          "folk mix"
+        ],
+        [
+          "https://live.hothitsfm.com/stream",
+          "Hot Hits FM"
+        ],
+        [
+          "https://eu1.reliastream.com/proxy/metroplusc?mp=/MLR2K",
+          "Metro - Love 00s"
+        ],
+        [
+          "https://eu1.reliastream.com/proxy/mhr?mp=/MHR",
+          "Metro - Hits"
+        ],
+        [
+          "https://eu1.reliastream.com/proxy/love80?mp=/MLR80S",
+          "Metro - Love 80s"
+        ],
+        [
+          "https://stream.zeno.fm/rvw1h2zk7s8uv",
+          "Note FM"
+        ],
+        [
+          "https://stream.zeno.fm/ux3k5mabt18uv",
+          "Note Party"
+        ],
+        [
+          "https://cast6.asurahosting.com/proxy/iliyan12/stream.mp3",
+          "Radio Party Mix"
+        ],
+        [
+          "https://play-radio0.jump.bg:7146/;",
+          "Studio Orqhovo"
+        ],
+        [
+          "https://stream.thevibe.tv:8000/radio1",
+          "The Vibe Radio"
+        ],
+        [
+          "https://myradio24.org/venceremos",
+          "Venceremos"
+        ],
+        [
+          "https://stream.zeno.fm/k39pq82eashvv",
+          "Zeno FM - Euforiq"
+        ],
+        [
+          "https://stream.zeno.fm/0rzuasxu7ontv",
+          "Zeno FM - радио ФОЛКЛОРИСТИКА"
+        ],
+        [
+          "https://radyo.yayin.com.tr:4474/;",
+          "Zig-Zag"
+        ],
+        [
+          "https://stream.zeno.fm/80qzq207rm0uv",
+          "Радио Червеният Папагал"
+        ],
+        [
+          "https://play-radio0.jump.bg:7332/;",
+          "play-radio"
+        ]
+      ],
+      "is_favorite": false,
+      "is_default": false
+    }
+  ]
+}
