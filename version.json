@@ -1,5 +1,5 @@
 {
   "version": "1.0.4",
-  "download_url": "https://github.com/KostadinPl/Ultimate-Radio/releases/download/ver1.0.4/Ultimate.Radio.exe",
+  "download_url": "https://github.com/KostadinPl/Ultimate-Radio/releases/download/ver1.0.4/Ultimate.Radio.zip",
   "release_notes": "✅ Клик в празното поле на стилове вече не прави нищо\n✅ Клик в празното поле на станции вече не прави нищо\n✅ Title е синхронизиран\n✅ Когато бъде изтрита станция маркира последната от списъка\n✅ Бутона за ъпдейт вече не съществува, докато не се появи наличен такъв. Тогава светват и файл и ъпдейт в червено докато не се направи ъпдейт. Когато направите ъпдейт бутона ъпдейт отново вече не съществува и файл си светва в бяло"
 }
